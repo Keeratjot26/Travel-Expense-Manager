@@ -29,7 +29,7 @@ st.sidebar.image("sidebar.jpg", use_container_width=True)
 # Title
 st.title("✈️ Travel Expense Manager")
 st.write("Easily track and manage your travel expenses!")
-st.image("title1.png", use_container_width=True)
+st.image("title1.jpg", use_container_width=True)
 
 # Random travel quotes
 travel_quotes = [
